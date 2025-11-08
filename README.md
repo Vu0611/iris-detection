@@ -1,4 +1,4 @@
-# Iris Detection: Real-Time Gaze and Head Orientation Tracking
+# Iris Detection: Real-Time Gaze and Face Orientation Tracking
 
 ## Overview
 This project detects a person’s **iris** and **head orientation** in real time using **MediaPipe face landmarks**.  
